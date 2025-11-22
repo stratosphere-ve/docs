@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Stratosphere
+Slow down there! before you start making plugins or whatever your doing, please read our [introductory docs](https://stratosphere-ve.github.io). this should take 10-25 minutes if you know what your doing with python. (you should know python if your doing anything related to contributing, if not we do not provide tutorials on how to code with python.)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Recently updated articles
+[Making a plugin (placeholder)](https://stratosphere-ve.github.io)
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#basicly any thing so far is a placeholder as a solo dev i am  making very slow progress if you even contrubute a lil bit it would mean alot
