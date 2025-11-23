@@ -1,10 +1,28 @@
 # Welcome to Stratosphere
-Slow down there! before you start making plugins or whatever your doing, please read our [introductory docs](https://stratosphere-ve.github.io). this should take 10-25 minutes if you know what your doing with python. (you should know python if your doing anything related to contributing, if not we do not provide tutorials on how to code with python.)
 
-# Recently updated articles
-[Making a plugin (placeholder)](https://stratosphere-ve.github.io)
+Slow down there for a second.  
+Before you start messing with plugins or whatever else you’re trying to dive into,  
+Please take a moment to read our [introductory docs](https://stratosphere-ve.github.io).
 
+It should only take about **10–25 minutes** if you actually know what you're doing with Python.  
+(And realistically, you *should* know Python if you're planning on contributing anything.  
+We don't provide Python tutorials.)
 
+---
 
+# Recently Updated Articles
 
-#basicly any thing so far is a placeholder as a solo dev i am  making very slow progress if you even contrubute a lil bit it would mean alot
+These are the things that have been touched most recently:
+
+- [Making a plugin (placeholder)](https://stratosphere-ve.github.io)
+
+More will appear here once the project moves forward and I finish building the [core](https://github.com/stratosphere-ve/core/) repo.
+
+---
+
+# Project Status
+
+Pretty much everything here is a placeholder right now.  
+I’m a solo dev working on this slowly, and not acting very smartly at coding this
+If you contribute even a tiny bit, fixing my unoptimized repetitive console log loop every millisecond type code, improving a page, or adding a small feature.
+**It helps a lot in advancing this project**. Every bit of progress matters, especially at this stage.
