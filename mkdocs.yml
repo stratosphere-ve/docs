@@ -1,1 +1,22 @@
-site_name: My Docs
+site_name: Stratosphere Docs
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: "#5b21b6"
+      accent: "#5b21b6"
+      background: "#000000"
+      surface: "#000000"
+      code-bg: "#111111"
+      code-border: "#222222"
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.expand
+    - content.code.annotate
+    - content.code.copy
+    - toc.integrate
+
+extra_css:
+  - styles/stratosphere.css
