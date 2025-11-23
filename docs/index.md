@@ -6,7 +6,7 @@ Please take a moment to read our [introductory docs](https://stratosphere-ve.git
 
 It should only take about **10–25 minutes** if you actually know what you're doing with Python.  
 (And realistically, you *should* know Python if you're planning on contributing anything.  
-We don't provide Python tutorials.)
+We don't do Python tutorials.)
 
 ---
 
