@@ -1,0 +1,54 @@
+/* Global background + text */
+html, body {
+    background: #000000 !important;
+    color: #e9d9ff !important; /* soft purple-white */
+}
+
+/* Header */
+.md-header {
+    background-color: #000000 !important;
+    border-bottom: 1px solid #111111 !important;
+}
+
+/* Tabs */
+.md-tabs {
+    background-color: #000000 !important;
+}
+
+/* Sidebar */
+.md-sidebar {
+    background-color: #000000 !important;
+}
+
+.md-nav__link,
+.md-nav__title {
+    color: #5b21b6 !important;  /* EXACT purple */
+}
+
+.md-nav__link--active {
+    color: #7c31ea !important;  /* brighter variant */
+}
+
+/* Links */
+a {
+    color: #5b21b6 !important;
+}
+
+a:hover {
+    color: #7c31ea !important;
+}
+
+/* Code blocks */
+.md-code,
+.md-code-block {
+    background: #111111 !important;
+    border: 1px solid #222222 !important;
+    color: #d5caff !important; 
+}
+
+/* Footer */
+.md-footer {
+    background: #000000 !important;
+    border-top: 1px solid #111111 !important;
+    color: #5b21b6 !important;
+}
